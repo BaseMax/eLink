@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/fonts/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>resources/fonts/Nunito-Light.ttf</file>
+        <file>resources/fonts/Nunito-Regular.ttf</file>
+        <file>FontSystem.qml</file>
+        <file>resources/fonts/Nunito-Bold.ttf</file>
+        <file>resources/fonts/Font Awesome 5 Free-Solid-900.otf</file>
+    </qresource>
+</RCC>
